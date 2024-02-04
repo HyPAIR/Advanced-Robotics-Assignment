@@ -1,0 +1,50 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/weijian/advanced_robotics/franka_panda_assignment/devel_isolated/panda_sim_custom_action_server/include/**",
+        "/home/weijian/advanced_robotics/franka_panda_assignment/devel_isolated/orocos_kdl/include/**",
+        "/home/weijian/advanced_robotics/franka_panda_assignment/devel_isolated/franka_ros_controllers/include/**",
+        "/home/weijian/advanced_robotics/franka_panda_assignment/devel_isolated/franka_example_controllers/include/**",
+        "/home/weijian/advanced_robotics/franka_panda_assignment/devel_isolated/franka_core_msgs/include/**",
+        "/home/weijian/advanced_robotics/franka_panda_assignment/devel_isolated/franka_msgs/include/**",
+        "/home/weijian/advanced_robotics/franka_panda_assignment/devel_isolated/franka_gripper/include/**",
+        "/home/weijian/advanced_robotics/franka_panda_assignment/devel_isolated/advance_robotics_assignment/include/**",
+        "/home/weijian/match_robotics/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/weijian/advanced_robotics/franka_panda_assignment/src/franka_ros/franka_control/include/**",
+        "/home/weijian/advanced_robotics/franka_panda_assignment/src/franka_ros/franka_example_controllers/include/**",
+        "/home/weijian/advanced_robotics/franka_panda_assignment/src/franka_ros/franka_gazebo/include/**",
+        "/home/weijian/advanced_robotics/franka_panda_assignment/src/franka_ros/franka_gripper/include/**",
+        "/home/weijian/advanced_robotics/franka_panda_assignment/src/franka_ros/franka_hw/include/**",
+        "/home/weijian/advanced_robotics/franka_panda_assignment/src/franka_ros_interface/franka_interface/include/**",
+        "/home/weijian/advanced_robotics/franka_panda_assignment/src/franka_ros_interface/franka_ros_controllers/include/**",
+        "/home/weijian/match_robotics/src/match_mobile_robotics/submodules/match_path_planning/local_plan_follower/include/**",
+        "/home/weijian/match_robotics/src/match_mobile_robotics/match_gazebo/include/**",
+        "/home/weijian/ECBS_TO/src/multi_robot_traj_planner/multi_robot_traj_planner/include/**",
+        "/home/weijian/match_robotics/src/match_mobile_robotics/panda/panda_controllers_extended/include/**",
+        "/home/weijian/advanced_robotics/franka_panda_assignment/src/panda_simulator/panda_gazebo/include/**",
+        "/home/weijian/advanced_robotics/franka_panda_assignment/src/panda_simulator/panda_hardware_interface/include/**",
+        "/home/weijian/advanced_robotics/franka_panda_assignment/src/panda_simulator/panda_sim_controllers/include/**",
+        "/home/weijian/match_robotics/src/match_mobile_robotics/submodules/match_path_planning/splined_voronoi/splined_voronoi/include/**",
+        "/home/weijian/traj_tracking/src/hunter/steer_bot_hardware_gazebo/include/**",
+        "/home/weijian/traj_tracking/src/hunter/steer_drive_controller/include/**",
+        "/home/weijian/traj_tracking/src/trajectory_tracking/include/**",
+        "/home/weijian/match_robotics/src/match_mobile_robotics/ur/ur_calibrated_pose_pub/include/**",
+        "/home/weijian/match_robotics/src/match_mobile_robotics/ur/ur_controllers_extended/include/**",
+        "/home/weijian/traj_tracking/src/vel_node/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

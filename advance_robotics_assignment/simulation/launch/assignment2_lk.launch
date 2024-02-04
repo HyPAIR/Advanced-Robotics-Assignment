@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<launch>
+
+  <include file="$(find advance_robotics_assignment)/launch/single.launch">
+    <arg name="headless" value="true" />
+    <arg name="gui" value="false" />
+    <arg name="world" value="$(find advance_robotics_assignment)/worlds/assignment2_lk.world" />
+  </include>
+
+ <arg name="rvizconfig" default="$(find advance_robotics_assignment)/config/assignment2_lk.rviz" />
+
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(arg rvizconfig)" required="true" />
+
+  <node pkg="tf" type="static_transform_publisher" name="ee" args="0 0 .103 0 0 0 1  /panda_hand /endeffector  10"/>
+
+</launch>

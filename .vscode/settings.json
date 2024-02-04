@@ -1,0 +1,37 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/weijian/manipulator_mpc/devel_isolated/python_orocos_kdl/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/panda_simulator_examples/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/panda_gazebo/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/panda_sim_custom_action_server/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/franka_tools/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/franka_moveit/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/meam520_labs/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/franka_ros_controllers/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/franka_interface/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/franka_example_controllers/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/franka_core_msgs/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/franka_msgs/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/franka_gripper/lib/python3/dist-packages",
+        "/home/weijian/match_robotics/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/weijian/manipulator_mpc/devel_isolated/python_orocos_kdl/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/panda_simulator_examples/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/panda_gazebo/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/panda_sim_custom_action_server/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/franka_tools/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/franka_moveit/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/meam520_labs/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/franka_ros_controllers/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/franka_interface/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/franka_example_controllers/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/franka_core_msgs/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/franka_msgs/lib/python3/dist-packages",
+        "/home/weijian/manipulator_mpc/devel_isolated/franka_gripper/lib/python3/dist-packages",
+        "/home/weijian/match_robotics/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "./rename_to__meam520_labs/ros/meam520_labs"
+    ]
+}
