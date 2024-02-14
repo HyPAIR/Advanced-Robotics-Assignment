@@ -42,7 +42,6 @@ roslaunch advance_robotics_assignment assignment1_fk.launch
 Open a new terminal and run the following file to visualize the results of your forward kinematics calculations.
 ```shell
 source devel_isolated/setup.bash
-/home/weijian/uob_ar_assignment/src/Advanced-Robotics-Assignment/advance_robotics_assignment/assignment/assignment1_FK
 cd uob_ar_assignment/src/Advanced-Robotics-Assignment/advance_robotics_assignment/assignment/assignment1_FK
 python3 fk_visualization.py 
 ```
