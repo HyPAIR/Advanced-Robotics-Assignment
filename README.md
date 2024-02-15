@@ -43,7 +43,7 @@ Open a new terminal and run the following file to visualize the results of your 
 ```shell
 source devel_isolated/setup.bash
 cd uob_ar_assignment/src/Advanced-Robotics-Assignment/advance_robotics_assignment/assignment/assignment1_FK
-python3 fk_visualization.py 
+python3 forward_kinematics.py 
 ```
 ![fk](https://github.com/HyPAIR/Advanced-Robotics-Assignment/blob/main/figure/fk.gif)
 
@@ -59,6 +59,6 @@ Open a new terminal and run the following file to visualize the results of your 
 ```shell
 source devel_isolated/setup.bash
 cd uob_ar_assignment/src/Advanced-Robotics-Assignment/advance_robotics_assignment/assignment/assignment2_IK
-python3 ik_visualization.py 
+python3 inverse_kinematics.py 
 ```
 ![ik](https://github.com/HyPAIR/Advanced-Robotics-Assignment/blob/main/figure/ik.gif)
